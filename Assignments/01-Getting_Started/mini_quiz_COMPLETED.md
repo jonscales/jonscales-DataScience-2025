@@ -20,7 +20,12 @@ Test your knowledge! Write your answers in the spaces provided or use them as re
 
 ### 3. How do you open a notebook from GitHub into Google Colab?
 ```text
-Your answer: 
+Your answer:
+go to this URL   https://colab.research.google.com/    [ google colab home page ]
+choose GitHub from the left menu in the Open notebook  popup window
+use the dropdown to choose my data science repository
+highlight and open the desired notebook
+
 ```
 
 ---
